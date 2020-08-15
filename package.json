@@ -18,6 +18,7 @@
     "set"
   ],
   "author": "GirkovArpa",
+  "respository": "https://github.com/GirkovArpa/symmetric-difference-strings",
   "license": "Unlicense",
   "devDependencies": {
     "chai": "^4.2.0"
