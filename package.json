@@ -1,0 +1,25 @@
+{
+  "name": "symmetric-difference-strings",
+  "type": "module",
+  "types": "index.d.ts",
+  "version": "0.0.1",
+  "description": "Find the symmetric difference of two string arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "array",
+    "symmetric",
+    "difference",
+    "intersection",
+    "union",
+    "string",
+    "set"
+  ],
+  "author": "GirkovArpa",
+  "license": "Unlicense",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}

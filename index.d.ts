@@ -1,0 +1,1 @@
+export default function symmetricDifference(a: string[], b: string[]): string[];
