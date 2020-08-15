@@ -13,5 +13,5 @@ export default function symmetricDifference(a, b) {
   }, {});
   return Object.entries(diffs)
     .map(([val, count]) => new Array(count).fill(val))
-    .flat(1e99);
+    .flat(1);
 }
