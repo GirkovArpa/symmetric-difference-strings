@@ -2,7 +2,7 @@
   "name": "symmetric-difference-strings",
   "type": "module",
   "types": "index.d.ts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Find the symmetric difference of two string arrays.",
   "main": "index.js",
   "scripts": {
@@ -15,10 +15,14 @@
     "intersection",
     "union",
     "string",
+    "strings",
     "set"
   ],
   "author": "GirkovArpa",
-  "respository": "https://github.com/GirkovArpa/symmetric-difference-strings",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GirkovArpa/symmetric-difference-strings"
+  },
   "license": "Unlicense",
   "devDependencies": {
     "chai": "^4.2.0"
