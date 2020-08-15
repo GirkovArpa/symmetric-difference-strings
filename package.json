@@ -2,7 +2,7 @@
   "name": "symmetric-difference-strings",
   "type": "module",
   "types": "index.d.ts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Find the symmetric difference of two string arrays.",
   "main": "index.js",
   "scripts": {

@@ -15,8 +15,3 @@ export default function symmetricDifference(a, b) {
     .map(([val, count]) => new Array(count).fill(val))
     .flat(1e99);
 }
-
-
-console.log(
-  symmetricDifference(['hello', 'world', 'foo', 'foo'], ['hello', 'world', 'foo', 'bar'])
-);
